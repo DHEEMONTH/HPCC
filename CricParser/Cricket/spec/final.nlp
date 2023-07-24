@@ -1,0 +1,13 @@
+###############################################
+# FILE: final
+# SUBJ: comment
+# AUTH: Dheemonth
+# CREATED: 2023-6-28 13:28:31
+# MODIFIED:
+###############################################
+
+@CODE
+
+SaveKB("tweets.kbb",G("tweets"),2);
+
+@@CODE

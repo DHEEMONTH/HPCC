@@ -1,0 +1,17 @@
+###############################################
+# FILE: teamemotion
+# SUBJ: Applying sentiments for individual teams in the same tweet by the user
+# AUTH: Dheemonth
+# CREATED: 2023-7-24 16:56:52
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@RULES
+_sup <-
+	_team							### (1)
+	_xWILD [one match=("win" "won")]	### (2)
+	_xWILD [one match=("against")] ### (3)
+	_team							### (4)
+	@@

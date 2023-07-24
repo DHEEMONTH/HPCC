@@ -1,0 +1,27 @@
+"chennai super kings" s=team abbrev=CSK
+"mumbai indians" s=team abbrev=MI
+"royal challengers bangalore" s=team abbrev=RCB
+"kolkata knight riders" s=team abbrev=KKR
+"rajasthan royals" s=team abbrev=RR
+"punjab kings" s=team abbrev=PBKS
+"delhi capitals" s=team abbrev=DC
+"sunrisers hyderabad" s=team abbrev=SRH
+"deccan chargers" s=team abbrev=DCH
+"rising pune super giant" s=team abbrev=RPS
+"gujarat lions" s=team abbrev=GL
+"gurajat titans" s=team abbrev=GT
+"lucknow super giants" s=team abbrev=LSG
+
+csk s=team abbrev=1 team="chennai super kings"
+mi s=team abbrev=1 team="mumbai indians"
+rcb s=team abbrev=1 team="royal challengers bangalore"
+kkr s=team abbrev=1 team="kolkata knight riders"
+rr s=team abbrev=1 team="rajasthan royals"
+pbks s=team abbrev=1 team="punjab kings"
+dc s=team abbrev=1 team="delhi capitals"
+srh s=team abbrev=1 team="sunrisers hyderabad"
+dch s=team abbrev=1 team="deccan chargers"
+rps s=team abbrev=1 team="rising pune super giant"
+gl s=team abbrev=1 team="gujarat lions"
+gt s=team abbrev=1 team="gurajat titans"
+lsg s=team abbrev=1 team="lucknow super giants"

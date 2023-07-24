@@ -1,0 +1,34 @@
+###############################################
+# FILE: playerSentiment
+# SUBJ: comment
+# AUTH: Dheemonth
+# CREATED: 2023-6-28 13:52:1
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+# L("Senti")=N("$text",2);
+AddSentiment(X("con"),"Happy");
+# addstrval(X("con"),"sentiment","Happy");
+single();
+
+@RULES
+_userSentiment <-
+	_xWILD [one match=("lose" "win" "strikes")]	### (1)
+	#_xWILD[plus matches=(_xALPHA)]
+	#_emoji							### (4)
+	@@
+
+@POST
+AddSentiment(X("con"),"Sarcasm");
+# addstrval(X("con"),"sentiment","Sarcasm");
+single();
+
+@RULES
+_sarcastic <-
+	_xWILD [s one match=("escn" "sweet mangoes" "😝")]	### (1)
+	#_xWILD[plus matches=(_xALPHA)]
+	#_emoji							### (4)
+	@@

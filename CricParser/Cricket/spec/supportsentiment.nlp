@@ -1,0 +1,63 @@
+###############################################
+# FILE: supportsentiment
+# SUBJ: comment
+# AUTH: Dheemonth
+# CREATED: 2023-6-28 13:52:1
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+L("TeamName")=N("team",1);
+L("Emotion")=N("$text",2);
+AddTeamSenti(X("con"),L("TeamName"),L("Emotion"));
+# AddEmoji(X("con"),L("Emotion"));
+single();
+
+@RULES
+_teamemoji <-
+	_team	### (1)
+	_xWILD[plus match=(_xEMOJI)]	### (2)
+	@@
+
+@POST
+L("TeamName")=N("team",1);
+L("Senti")=N("$text",2);
+AddTeamSupp(X("con"),L("TeamName"),L("Senti"));
+single();
+
+@RULES
+_teamsupport <-	
+	_team							### (1)
+	_xWILD [one match=("win" "won" "lost" "lose")]	### (2)
+	@@
+
+
+
+
+
+###classify the emoji with attr
+# function to be created
+#try keeping knowledge base
+
+# @POST
+# addstrval(X("con"),"sentiment","Happy");
+# single();
+
+# @RULES
+# _forteam <-
+# 	_team	### (1)
+# 	👍	### (2)
+# 	@@
+
+# @POST
+# addstrval(X("con"),"sentiment","Happy");
+# single();
+
+# @RULES
+# _RCBS <-
+# 	rcb 	###(3)
+# 	fans	### (1)
+# 	_emoji	### (2)
+# 	@@

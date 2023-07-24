@@ -1,0 +1,15 @@
+###############################################
+# FILE: hashtag
+# SUBJ: comment
+# AUTH: Dheemonth
+# CREATED: 2023-6-28 13:37:0
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@RULES
+_player <-
+	\#	### (1)
+	_player
+	@@

@@ -1,0 +1,13 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: Dheemoth
+# CREATED: 2023-6-28 13:26:52
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("tweets") = getconcept(findroot(),"tweets");
+
+@@CODE

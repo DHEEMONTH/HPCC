@@ -1,0 +1,35 @@
+###############################################
+# FILE: hashtag
+# SUBJ: comment
+# AUTH: Dheemonth
+# CREATED: 2023-6-28 13:37:0
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST S("emoji") = "Happy";L("Emotion")=N("$text",1);
+#AddEmoji(X("con"),L("Emotion"));  
+single(); 
+@RULES _emoji <- _xWILD [one match=(😂 🤣)] @@
+
+@POST S("emoji") = "Sad";#L("Emotion")=N("$text",1);
+#AddEmoji(X("con"),L("Emotion")); 
+single(); 
+@RULES _emoji <- _xWILD [one match=(😭 😢)] @@
+
+@POST S("emoji") = "love"; #L("Emotion")=N("$text",1);
+#AddEmoji(X("con"),L("Emotion"));
+single();
+@RULES _emoji <- _xWILD [one match=(❤️ 💕 💖 💗 💞 )] @@
+
+@POST S("emoji")="celebration";#L("Emotion")=N("$text",1);
+#AddEmoji(X("con"),L("Emotion")); 
+single(); 
+@RULES _emoji <- _xWILD [one match=(🎈🎉 🎊 )] @@
+
+@POST S("emoji")="excitement"; #L("Emotion")=N("$text",1);
+#AddEmoji(X("con"),L("Emotion"));
+single(); 
+@RULES _emoji <- _xWILD [one match=(👑 🏆 💪 💪🏻 💯🔥🤩 😎 𓃵)] ###(1) 
+@@

@@ -1,0 +1,24 @@
+###############################################
+# FILE: playerSentiment
+# SUBJ: comment
+# AUTH: Dheemonth K
+# CREATED: 2023-6-28 13:52:1
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+L("PlayerName")=N("name",1);
+L("Emotion")=N("$text",2);
+L("Senti")=N("emoji",2);
+AddPlayerSenti(X("con"),L("PlayerName"),L("Emotion"),L("Senti"));
+# AddEmoji(X("con"),L("Emotion"));
+#addstrval(X("con"),"sentiment",N("$text",2));
+single();
+
+@RULES
+_playerSentiment <-
+	_player	### (1)
+	_xWILD[one matches=(_emoji)]	### (2)
+	@@

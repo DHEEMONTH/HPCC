@@ -1,0 +1,20 @@
+###############################################
+# FILE: cricsentiment
+# SUBJ: comment
+# AUTH: Dheemonth
+# CREATED: 2023-6-28 13:52:1
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+L("Emotion")=N("$text",2);
+AddEmoji(X("con"),L("Emotion"));
+single();
+
+@RULES
+_cricsentiment <-
+	_xWILD [one match=(_cricterm)]	### (1)
+	_xWILD [plus match=(_emoji)]	### (2)
+	@@

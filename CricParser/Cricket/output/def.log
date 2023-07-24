@@ -1,0 +1,7 @@
+Sequence file is:
+dicttokz
+NOHASH rule: _LINE [] [] <- _xSTART [1,1] [] _xWILD [1,0 pre] [] @@
+NOHASH rule: _LINE [] [] <- _xWILD [1,1 pre] [] _xWILD [0,0 pre] [] @@
+
+Passes: (dicttok,nil) (nlp,init) (nlp,KBFuncs) (nlp,funcs) (nlp,LinesDictTokZ) (,hashtag) (nlp,hashtagWords) (nlp,acctag) (,emojis) (,highlightPlayers) (nlp,playerSentiment) (nlp,userSentiment) (nlp,cricsentiment) (,stoptweets) (nlp,supportsentiment) (,teamemotion) (nlp,final) 
+

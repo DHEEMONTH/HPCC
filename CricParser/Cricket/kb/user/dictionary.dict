@@ -1,0 +1,334 @@
+#########
+# Players
+#########
+aaron finch  s=player name="aaron finch" sport=cricket team=rcb country=india
+aaronfinch   s=player name="aaronfinch" sport=cricket team=rcb country=india
+ab de villiers  s=player name="ab de villiers" sport=cricket team=rcb country=india
+abdevilliers   s=player name="abdevilliers" sport=cricket team=rcb country=india
+abdur razzak  s=player name="abdur razzak" sport=cricket team=rcb country=india
+abdurrazzak   s=player name="abdurrazzak" sport=cricket team=rcb country=india
+abhimanyu mithun  s=player name="abhimanyu mithun" sport=cricket team=rcb country=india
+abhimanyumithun   s=player name="abhimanyumithun" sport=cricket team=rcb country=india
+abhinav mukund  s=player name="abhinav mukund" sport=cricket team=rcb country=india
+abhinavmukund   s=player name="abhinavmukund" sport=cricket team=rcb country=india
+abrar kazi  s=player name="abrar kazi" sport=cricket team=rcb country=india
+abrarkazi   s=player name="abrarkazi" sport=cricket team=rcb country=india
+abu nechim  s=player name="abu nechim" sport=cricket team=rcb country=india
+abunechim   s=player name="abunechim" sport=cricket team=rcb country=india
+adam milne  s=player name="adam milne" sport=cricket team=rcb country=india
+adam zampa  s=player name="adam zampa" sport=cricket team=rcb country=india
+adammilne   s=player name="adammilne" sport=cricket team=rcb country=india
+adamzampa   s=player name="adamzampa" sport=cricket team=rcb country=india
+akash deep  s=player name="akash deep" sport=cricket team=rcb country=india
+akashdeep   s=player name="akashdeep" sport=cricket team=rcb country=india
+akshay karnewar  s=player name="akshay karnewar" sport=cricket team=rcb country=india
+akshaykarnewar   s=player name="akshaykarnewar" sport=cricket team=rcb country=india
+albie morkel  s=player name="albie morkel" sport=cricket team=rcb country=india
+albiemorkel   s=player name="albiemorkel" sport=cricket team=rcb country=india
+andrew mcdonald  s=player name="andrew mcdonald" sport=cricket team=rcb country=india
+andrewmcdonald   s=player name="andrewmcdonald" sport=cricket team=rcb country=india
+aniket choudhary  s=player name="aniket choudhary" sport=cricket team=rcb country=india
+aniketchoudhary   s=player name="aniketchoudhary" sport=cricket team=rcb country=india
+anil kumble  s=player name="anil kumble" sport=cricket team=rcb country=india
+anilkumble   s=player name="anilkumble" sport=cricket team=rcb country=india
+aniruddha joshi  s=player name="aniruddha joshi" sport=cricket team=rcb country=india
+aniruddhajoshi   s=player name="aniruddhajoshi" sport=cricket team=rcb country=india
+anuj  s=player name="anuj rawat" sport=cricket team=rcb country=india
+anuj rawat  s=player name="anuj rawat" sport=cricket team=rcb country=india
+anujrawat   s=player name="anujrawat" sport=cricket team=rcb country=india
+arun karthik  s=player name="arun karthik" sport=cricket team=rcb country=india
+arunkarthik   s=player name="arunkarthik" sport=cricket team=rcb country=india
+asad pathan  s=player name="asad pathan" sport=cricket team=rcb country=india
+asadpathan   s=player name="asadpathan" sport=cricket team=rcb country=india
+ashley noffke  s=player name="ashley noffke" sport=cricket team=rcb country=india
+ashleynoffke   s=player name="ashleynoffke" sport=cricket team=rcb country=india
+ashok dinda  s=player name="ashok dinda" sport=cricket team=rcb country=india
+ashokdinda   s=player name="ashokdinda" sport=cricket team=rcb country=india
+avesh khan  s=player name="avesh khan" sport=cricket team=rcb country=india
+aveshkhan   s=player name="aveshkhan" sport=cricket team=rcb country=india
+balachandra akhil  s=player name="balachandra akhil" sport=cricket team=rcb country=india
+balachandraakhil   s=player name="balachandraakhil" sport=cricket team=rcb country=india
+bharat chipli  s=player name="bharat chipli" sport=cricket team=rcb country=india
+bharatchipli   s=player name="bharatchipli" sport=cricket team=rcb country=india
+bhuvneshwar kumar  s=player name="bhuvneshwar kumar" sport=cricket team=rcb country=india
+bhuvneshwarkumar   s=player name="bhuvneshwarkumar" sport=cricket team=rcb country=india
+brendon mccullum  s=player name="brendon mccullum" sport=cricket team=rcb country=india
+brendonmccullum   s=player name="brendonmccullum" sport=cricket team=rcb country=india
+c m gautam  s=player name="c m gautam" sport=cricket team=rcb country=india
+cameron white  s=player name="cameron white" sport=cricket team=rcb country=india
+cameronwhite   s=player name="cameronwhite" sport=cricket team=rcb country=india
+charl langeveldt  s=player name="charl langeveldt" sport=cricket team=rcb country=india
+charllangeveldt   s=player name="charllangeveldt" sport=cricket team=rcb country=india
+cheteshwar pujara  s=player name="cheteshwar pujara" sport=cricket team=rcb country=india
+cheteshwarpujara   s=player name="cheteshwarpujara" sport=cricket team=rcb country=india
+chris gayle  s=player name="chris gayle" sport=cricket team=rcb country=india
+chris morris  s=player name="chris morris" sport=cricket team=rcb country=india
+chris woakes  s=player name="chris woakes" sport=cricket team=rcb country=india
+chrisgayle   s=player name="chrisgayle" sport=cricket team=rcb country=india
+chrismorris   s=player name="chrismorris" sport=cricket team=rcb country=india
+christopher barnwell  s=player name="christopher barnwell" sport=cricket team=rcb country=india
+christopherbarnwell   s=player name="christopherbarnwell" sport=cricket team=rcb country=india
+chriswoakes   s=player name="chriswoakes" sport=cricket team=rcb country=india
+cmgautam   s=player name="cmgautam" sport=cricket team=rcb country=india
+colin de grandhomme  s=player name="colin de grandhomme" sport=cricket team=rcb country=india
+colindegrandhomme   s=player name="colindegrandhomme" sport=cricket team=rcb country=india
+corey anderson  s=player name="corey anderson" sport=cricket team=rcb country=india
+coreyanderson   s=player name="coreyanderson" sport=cricket team=rcb country=india
+dale steyn  s=player name="dale steyn" sport=cricket team=rcb country=india
+dalesteyn   s=player name="dalesteyn" sport=cricket team=rcb country=india
+dan christian  s=player name="dan christian" sport=cricket team=rcb country=india
+danchristian   s=player name="danchristian" sport=cricket team=rcb country=india
+daniel sams  s=player name="daniel sams" sport=cricket team=rcb country=india
+daniel vettori  s=player name="daniel vettori" sport=cricket team=rcb country=india
+danielsams   s=player name="danielsams" sport=cricket team=rcb country=india
+danielvettori   s=player name="danielvettori" sport=cricket team=rcb country=india
+daren sammy  s=player name="daren sammy" sport=cricket team=rcb country=india
+darensammy   s=player name="darensammy" sport=cricket team=rcb country=india
+david wiese  s=player name="david wiese" sport=cricket team=rcb country=india
+davidwiese   s=player name="davidwiese" sport=cricket team=rcb country=india
+devdutt padikkal  s=player name="devdutt padikkal" sport=cricket team=rcb country=india
+devduttpadikkal   s=player name="devduttpadikkal" sport=cricket team=rcb country=india
+devraj patil  s=player name="devraj patil" sport=cricket team=rcb country=india
+devrajpatil   s=player name="devrajpatil" sport=cricket team=rcb country=india
+dillon du preez  s=player name="dillon du preez" sport=cricket team=rcb country=india
+dillondupreez   s=player name="dillondupreez" sport=cricket team=rcb country=india
+dinesh karthik  s=player name="dinesh karthik" sport=cricket team=rcb country=india
+dineshkarthik   s=player name="dineshkarthik" sport=cricket team=rcb country=india
+dirk nannes  s=player name="dirk nannes" sport=cricket team=rcb country=india
+dirknannes   s=player name="dirknannes" sport=cricket team=rcb country=india
+eoin morgan  s=player name="eoin morgan" sport=cricket team=rcb country=india
+eoinmorgan   s=player name="eoinmorgan" sport=cricket team=rcb country=india
+glenn maxwell  s=player name="glenn maxwell" sport=cricket team=rcb country=india
+glennmaxwell   s=player name="glennmaxwell" sport=cricket team=rcb country=india
+harshal patel  s=player name="harshal patel" sport=cricket team=rcb country=india
+harshalpatel   s=player name="harshalpatel" sport=cricket team=rcb country=india
+heinrich klaasen  s=player name="heinrich klaasen" sport=cricket team=rcb country=india
+heinrichklaasen   s=player name="heinrichklaasen" sport=cricket team=rcb country=india
+himanshu sharma  s=player name="himanshu sharma" sport=cricket team=rcb country=india
+himanshusharma   s=player name="himanshusharma" sport=cricket team=rcb country=india
+iqbal abdulla  s=player name="iqbal abdulla" sport=cricket team=rcb country=india
+iqbalabdulla   s=player name="iqbalabdulla" sport=cricket team=rcb country=india
+ishank jaggi  s=player name="ishank jaggi" sport=cricket team=rcb country=india
+ishankjaggi   s=player name="ishankjaggi" sport=cricket team=rcb country=india
+isuru udana  s=player name="isuru udana" sport=cricket team=rcb country=india
+isuruudana   s=player name="isuruudana" sport=cricket team=rcb country=india
+j arunkumar  s=player name="j arunkumar" sport=cricket team=rcb country=india
+jacques kallis  s=player name="jacques kallis" sport=cricket team=rcb country=india
+jacqueskallis   s=player name="jacqueskallis" sport=cricket team=rcb country=india
+jarunkumar   s=player name="jarunkumar" sport=cricket team=rcb country=india
+jaydev unadkat  s=player name="jaydev unadkat" sport=cricket team=rcb country=india
+jaydevunadkat   s=player name="jaydevunadkat" sport=cricket team=rcb country=india
+jesse ryder  s=player name="jesse ryder" sport=cricket team=rcb country=india
+jesseryder   s=player name="jesseryder" sport=cricket team=rcb country=india
+johan van der wath  s=player name="johan van der wath" sport=cricket team=rcb country=india
+jonathan vandiar  s=player name="jonathan vandiar" sport=cricket team=rcb country=india
+jonathanvandiar   s=player name="jonathanvandiar" sport=cricket team=rcb country=india
+josh philippe  s=player name="josh philippe" sport=cricket team=rcb country=india
+joshphilippe   s=player name="joshphilippe" sport=cricket team=rcb country=india
+k l rahul  s=player name="k l rahul" sport=cricket team=rcb country=india
+k p appanna  s=player name="k p appanna" sport=cricket team=rcb country=india
+k s bharat  s=player name="k s bharat" sport=cricket team=rcb country=india
+kane richardson  s=player name="kane richardson" sport=cricket team=rcb country=india
+kanerichardson   s=player name="kanerichardson" sport=cricket team=rcb country=india
+karn sharma  s=player name="karn sharma" sport=cricket team=rcb country=india
+karnsharma   s=player name="karnsharma" sport=cricket team=rcb country=india
+karun nair  s=player name="karun nair" sport=cricket team=rcb country=india
+karunnair   s=player name="karunnair" sport=cricket team=rcb country=india
+kedar jadhav  s=player name="kedar jadhav" sport=cricket team=rcb country=india
+kedarjadhav   s=player name="kedarjadhav" sport=cricket team=rcb country=india
+kevin pietersen  s=player name="kevin pietersen" sport=cricket team=rcb country=india
+kevinpietersen   s=player name="kevinpietersen" sport=cricket team=rcb country=india
+king kohli s=player name="virat kohli" sport=cricket team=rcb country=india
+klrahul   s=player name="klrahul" sport=cricket team=rcb country=india
+kohli s=player name="virat kohli" sport=cricket team=rcb country=india
+kpappanna   s=player name="kpappanna" sport=cricket team=rcb country=india
+ksbharat   s=player name="ksbharat" sport=cricket team=rcb country=india
+kulwant khejroliya  s=player name="kulwant khejroliya" sport=cricket team=rcb country=india
+kulwantkhejroliya   s=player name="kulwantkhejroliya" sport=cricket team=rcb country=india
+kyle jamieson  s=player name="kyle jamieson" sport=cricket team=rcb country=india
+kylejamieson   s=player name="kylejamieson" sport=cricket team=rcb country=india
+luke pomersbach  s=player name="luke pomersbach" sport=cricket team=rcb country=india
+lukepomersbach   s=player name="lukepomersbach" sport=cricket team=rcb country=india
+mahipal lomror  s=player name="mahipal lomror" sport=cricket team=rcb country=india
+mahipallomror   s=player name="mahipallomror" sport=cricket team=rcb country=india
+manan vohra  s=player name="manan vohra" sport=cricket team=rcb country=india
+mananvohra   s=player name="mananvohra" sport=cricket team=rcb country=india
+mandeep singh  s=player name="mandeep singh" sport=cricket team=rcb country=india
+mandeepsingh   s=player name="mandeepsingh" sport=cricket team=rcb country=india
+manish pandey  s=player name="manish pandey" sport=cricket team=rcb country=india
+manishpandey   s=player name="manishpandey" sport=cricket team=rcb country=india
+manvinder bisla  s=player name="manvinder bisla" sport=cricket team=rcb country=india
+manvinderbisla   s=player name="manvinderbisla" sport=cricket team=rcb country=india
+marcus stoinis  s=player name="marcus stoinis" sport=cricket team=rcb country=india
+marcusstoinis   s=player name="marcusstoinis" sport=cricket team=rcb country=india
+mark boucher  s=player name="mark boucher" sport=cricket team=rcb country=india
+markboucher   s=player name="markboucher" sport=cricket team=rcb country=india
+mayank agarwal  s=player name="mayank agarwal" sport=cricket team=rcb country=india
+mayankagarwal   s=player name="mayankagarwal" sport=cricket team=rcb country=india
+misbah ul haq  s=player name="misbah ul haq" sport=cricket team=rcb country=india
+mitchell starc  s=player name="mitchell starc" sport=cricket team=rcb country=india
+mitchellstarc   s=player name="mitchellstarc" sport=cricket team=rcb country=india
+moeen ali  s=player name="moeen ali" sport=cricket team=rcb country=india
+moeenali   s=player name="moeenali" sport=cricket team=rcb country=india
+mohammad kaif  s=player name="mohammad kaif" sport=cricket team=rcb country=india
+mohammadkaif   s=player name="mohammadkaif" sport=cricket team=rcb country=india
+mohammed siraj  s=player name="mohammed siraj" sport=cricket team=rcb country=india
+mohammedsiraj   s=player name="mohammedsiraj" sport=cricket team=rcb country=india
+moises henriques  s=player name="moises henriques" sport=cricket team=rcb country=india
+moiseshenriques   s=player name="moiseshenriques" sport=cricket team=rcb country=india
+murali kartik  s=player name="murali kartik" sport=cricket team=rcb country=india
+muralikartik   s=player name="muralikartik" sport=cricket team=rcb country=india
+murugan ashwin  s=player name="murugan ashwin" sport=cricket team=rcb country=india
+muruganashwin   s=player name="muruganashwin" sport=cricket team=rcb country=india
+muttiah muralitharan  s=player name="muttiah muralitharan" sport=cricket team=rcb country=india
+muttiahmuralitharan   s=player name="muttiahmuralitharan" sport=cricket team=rcb country=india
+nathan bracken  s=player name="nathan bracken" sport=cricket team=rcb country=india
+nathan coulter nile  s=player name="nathan coulter nile" sport=cricket team=rcb country=india
+nathanbracken   s=player name="nathanbracken" sport=cricket team=rcb country=india
+navdeep saini  s=player name="navdeep saini" sport=cricket team=rcb country=india
+navdeepsaini   s=player name="navdeepsaini" sport=cricket team=rcb country=india
+nayan doshi  s=player name="nayan doshi" sport=cricket team=rcb country=india
+nayandoshi   s=player name="nayandoshi" sport=cricket team=rcb country=india
+nic maddinson  s=player name="nic maddinson" sport=cricket team=rcb country=india
+nicmaddinson   s=player name="nicmaddinson" sport=cricket team=rcb country=india
+nuwan pradeep  s=player name="nuwan pradeep" sport=cricket team=rcb country=india
+nuwanpradeep   s=player name="nuwanpradeep" sport=cricket team=rcb country=india
+padikkal  s=player name="devdutt padikkal" sport=cricket team=rcb country=india
+pankaj singh  s=player name="pankaj singh" sport=cricket team=rcb country=india
+pankajsingh   s=player name="pankajsingh" sport=cricket team=rcb country=india
+parthiv patel  s=player name="parthiv patel" sport=cricket team=rcb country=india
+parthivpatel   s=player name="parthivpatel" sport=cricket team=rcb country=india
+parvez rasool  s=player name="parvez rasool" sport=cricket team=rcb country=india
+parvezrasool   s=player name="parvezrasool" sport=cricket team=rcb country=india
+pavan deshpande  s=player name="pavan deshpande" sport=cricket team=rcb country=india
+pavandeshpande   s=player name="pavandeshpande" sport=cricket team=rcb country=india
+pawan negi  s=player name="pawan negi" sport=cricket team=rcb country=india
+pawannegi   s=player name="pawannegi" sport=cricket team=rcb country=india
+prasanth parameswaran  s=player name="prasanth parameswaran" sport=cricket team=rcb country=india
+prasanthparameswaran   s=player name="prasanthparameswaran" sport=cricket team=rcb country=india
+praveen dubey  s=player name="praveen dubey" sport=cricket team=rcb country=india
+praveen kumar  s=player name="praveen kumar" sport=cricket team=rcb country=india
+praveendubey   s=player name="praveendubey" sport=cricket team=rcb country=india
+praveenkumar   s=player name="praveenkumar" sport=cricket team=rcb country=india
+quinton de kock  s=player name="quinton de kock" sport=cricket team=rcb country=india
+quintondekock   s=player name="quintondekock" sport=cricket team=rcb country=india
+r p singh  s=player name="r p singh" sport=cricket team=rcb country=india
+rahul dravid  s=player name="rahul dravid" sport=cricket team=rcb country=india
+rahuldravid   s=player name="rahuldravid" sport=cricket team=rcb country=india
+rajat patidar  s=player name="rajat patidar" sport=cricket team=rcb country=india
+rajatpatidar   s=player name="rajatpatidar" sport=cricket team=rcb country=india
+rajesh bishnoi  s=player name="rajesh bishnoi" sport=cricket team=rcb country=india
+rajeshbishnoi   s=player name="rajeshbishnoi" sport=cricket team=rcb country=india
+rajoo bhatkal  s=player name="rajoo bhatkal" sport=cricket team=rcb country=india
+rajoobhatkal   s=player name="rajoobhatkal" sport=cricket team=rcb country=india
+ravi rampaul  s=player name="ravi rampaul" sport=cricket team=rcb country=india
+ravirampaul   s=player name="ravirampaul" sport=cricket team=rcb country=india
+rilee rossouw  s=player name="rilee rossouw" sport=cricket team=rcb country=india
+rileerossouw   s=player name="rileerossouw" sport=cricket team=rcb country=india
+robin uthappa  s=player name="robin uthappa" sport=cricket team=rcb country=india
+robinuthappa   s=player name="robinuthappa" sport=cricket team=rcb country=india
+roelof van der merwe  s=player name="roelof van der merwe" sport=cricket team=rcb country=india
+rohit sharma s=player name="rohit sharma"  sport=cricket team=mi country=india title=captain
+ross taylor  s=player name="ross taylor" sport=cricket team=rcb country=india
+rosstaylor   s=player name="rosstaylor" sport=cricket team=rcb country=india
+rpsingh   s=player name="rpsingh" sport=cricket team=rcb country=india
+ryan ninan  s=player name="ryan ninan" sport=cricket team=rcb country=india
+ryanninan   s=player name="ryanninan" sport=cricket team=rcb country=india
+sachin baby  s=player name="sachin baby" sport=cricket team=rcb country=india
+sachin rana  s=player name="sachin rana" sport=cricket team=rcb country=india
+sachinbaby   s=player name="sachinbaby" sport=cricket team=rcb country=india
+sachinrana   s=player name="sachinrana" sport=cricket team=rcb country=india
+samuel badree  s=player name="samuel badree" sport=cricket team=rcb country=india
+samuelbadree   s=player name="samuelbadree" sport=cricket team=rcb country=india
+sandeep warrier  s=player name="sandeep warrier" sport=cricket team=rcb country=india
+sandeepwarrier   s=player name="sandeepwarrier" sport=cricket team=rcb country=india
+sarfaraz khan  s=player name="sarfaraz khan" sport=cricket team=rcb country=india
+sarfarazkhan   s=player name="sarfarazkhan" sport=cricket team=rcb country=india
+saurabh tiwary  s=player name="saurabh tiwary" sport=cricket team=rcb country=india
+saurabhtiwary   s=player name="saurabhtiwary" sport=cricket team=rcb country=india
+sean abbott  s=player name="sean abbott" sport=cricket team=rcb country=india
+seanabbott   s=player name="seanabbott" sport=cricket team=rcb country=india
+shadab jakati  s=player name="shadab jakati" sport=cricket team=rcb country=india
+shadabjakati   s=player name="shadabjakati" sport=cricket team=rcb country=india
+shahbaz ahmed  s=player name="shahbaz ahmed" sport=cricket team=rcb country=india
+shahbazahmed   s=player name="shahbazahmed" sport=cricket team=rcb country=india
+shane watson  s=player name="shane watson" sport=cricket team=rcb country=india
+shanewatson   s=player name="shanewatson" sport=cricket team=rcb country=india
+sheldon jackson  s=player name="sheldon jackson" sport=cricket team=rcb country=india
+sheldonjackson   s=player name="sheldonjackson" sport=cricket team=rcb country=india
+sherfane rutherford  s=player name="sherfane rutherford" sport=cricket team=rcb country=india
+sherfanerutherford   s=player name="sherfanerutherford" sport=cricket team=rcb country=india
+shimron hetmyer  s=player name="shimron hetmyer" sport=cricket team=rcb country=india
+shimronhetmyer   s=player name="shimronhetmyer" sport=cricket team=rcb country=india
+shishir bhavane  s=player name="shishir bhavane" sport=cricket team=rcb country=india
+shishirbhavane   s=player name="shishirbhavane" sport=cricket team=rcb country=india
+shivam dube  s=player name="shivam dube" sport=cricket team=rcb country=india
+shivamdube   s=player name="shivamdube" sport=cricket team=rcb country=india
+shivnarine chanderpaul  s=player name="shivnarine chanderpaul" sport=cricket team=rcb country=india
+shivnarinechanderpaul   s=player name="shivnarinechanderpaul" sport=cricket team=rcb country=india
+shreevats goswami  s=player name="shreevats goswami" sport=cricket team=rcb country=india
+shreevatsgoswami   s=player name="shreevatsgoswami" sport=cricket team=rcb country=india
+sreenath aravind  s=player name="sreenath aravind" sport=cricket team=rcb country=india
+sreenatharavind   s=player name="sreenatharavind" sport=cricket team=rcb country=india
+sridharan sriram  s=player name="sridharan sriram" sport=cricket team=rcb country=india
+sridharansriram   s=player name="sridharansriram" sport=cricket team=rcb country=india
+steve smith  s=player name="steve smith" sport=cricket team=rcb country=india
+stevesmith   s=player name="stevesmith" sport=cricket team=rcb country=india
+stuart binny  s=player name="stuart binny" sport=cricket team=rcb country=india
+stuartbinny   s=player name="stuartbinny" sport=cricket team=rcb country=india
+subramaniam badrinath  s=player name="subramaniam badrinath" sport=cricket team=rcb country=india
+subramaniambadrinath   s=player name="subramaniambadrinath" sport=cricket team=rcb country=india
+sunil joshi  s=player name="sunil joshi" sport=cricket team=rcb country=india
+suniljoshi   s=player name="suniljoshi" sport=cricket team=rcb country=india
+sunny sohal  s=player name="sunny sohal" sport=cricket team=rcb country=india
+sunnysohal   s=player name="sunnysohal" sport=cricket team=rcb country=india
+suyash prabhudessai  s=player name="suyash prabhudessai" sport=cricket team=rcb country=india
+suyashprabhudessai   s=player name="suyashprabhudessai" sport=cricket team=rcb country=india
+syed mohammed  s=player name="syed mohammed" sport=cricket team=rcb country=india
+syedmohammed   s=player name="syedmohammed" sport=cricket team=rcb country=india
+tabraiz shamsi  s=player name="tabraiz shamsi" sport=cricket team=rcb country=india
+tabraizshamsi   s=player name="tabraizshamsi" sport=cricket team=rcb country=india
+tanmay mishra  s=player name="tanmay mishra" sport=cricket team=rcb country=india
+tanmaymishra   s=player name="tanmaymishra" sport=cricket team=rcb country=india
+tillakaratne dilshan  s=player name="tillakaratne dilshan" sport=cricket team=rcb country=india
+tillakaratnedilshan   s=player name="tillakaratnedilshan" sport=cricket team=rcb country=india
+tim david  s=player name="tim david" sport=cricket team=rcb country=india
+tim southee  s=player name="tim southee" sport=cricket team=rcb country=india
+timdavid   s=player name="timdavid" sport=cricket team=rcb country=india
+timsouthee   s=player name="timsouthee" sport=cricket team=rcb country=india
+tinu yohannan  s=player name="tinu yohannan" sport=cricket team=rcb country=india
+tinuyohannan   s=player name="tinuyohannan" sport=cricket team=rcb country=india
+travis head  s=player name="travis head" sport=cricket team=rcb country=india
+travishead   s=player name="travishead" sport=cricket team=rcb country=india
+tymal mills  s=player name="tymal mills" sport=cricket team=rcb country=india
+tymalmills   s=player name="tymalmills" sport=cricket team=rcb country=india
+umesh yadav  s=player name="umesh yadav" sport=cricket team=rcb country=india
+umeshyadav   s=player name="umeshyadav" sport=cricket team=rcb country=india
+vandermerwe   s=player name="vandermerwe" sport=cricket team=rcb country=india
+vanderwath   s=player name="vanderwath" sport=cricket team=rcb country=india
+varun aaron  s=player name="varun aaron" sport=cricket team=rcb country=india
+varunaaron   s=player name="varunaaron" sport=cricket team=rcb country=india
+vijay zol  s=player name="vijay zol" sport=cricket team=rcb country=india
+vikas tokas  s=player name="vikas tokas" sport=cricket team=rcb country=india
+vikastokas   s=player name="vikastokas" sport=cricket team=rcb country=india
+vikramjeet malik  s=player name="vikramjeet malik" sport=cricket team=rcb country=india
+vikramjeetmalik   s=player name="vikramjeetmalik" sport=cricket team=rcb country=india
+vinay kumar  s=player name="vinay kumar" sport=cricket team=rcb country=india
+vinaykumar   s=player name="vinaykumar" sport=cricket team=rcb country=india
+virat kohli s=player name="virat kohli" sport=cricket team=rcb country=india
+virat s=player name="virat kohli" sport=cricket team=rcb country=india
+viratkohli s=player name="virat kohli" sport=cricket team=rcb country=india
+wanindu hasaranga  s=player name="wanindu hasaranga" sport=cricket team=rcb country=india
+waninduhasaranga   s=player name="waninduhasaranga" sport=cricket team=rcb country=india
+washington sundar  s=player name="washington sundar" sport=cricket team=rcb country=india
+washingtonsundar   s=player name="washingtonsundar" sport=cricket team=rcb country=india
+wasim jaffer  s=player name="wasim jaffer" sport=cricket team=rcb country=india
+wasimjaffer   s=player name="wasimjaffer" sport=cricket team=rcb country=india
+yogesh takawale  s=player name="yogesh takawale" sport=cricket team=rcb country=india
+yogeshtakawale   s=player name="yogeshtakawale" sport=cricket team=rcb country=india
+yuvraj singh  s=player name="yuvraj singh" sport=cricket team=rcb country=india
+yuvrajsingh   s=player name="yuvrajsingh" sport=cricket team=rcb country=india
+yuzvendra chahal  s=player name="yuzvendra chahal" sport=cricket team=rcb country=india
+yuzvendrachahal   s=player name="yuzvendrachahal" sport=cricket team=rcb country=india
+zaheer khan  s=player name="zaheer khan" sport=cricket team=rcb country=india
+zaheerkhan   s=player name="zaheerkhan" sport=cricket team=rcb country=india

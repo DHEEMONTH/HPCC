@@ -1,0 +1,46 @@
+###############################################
+# FILE: Functions
+# SUBJ: Various functions for knowledge base
+# AUTH: Dheemonth
+# CREATED: 2023-7-20 17:32:16
+# MODIFIED:
+###############################################
+
+@DECL
+
+AddPlayerSenti(L("con"),L("PlayerName"),L("Emotion"),L("Senti")){
+    L("Players")=makeconcept(L("con"),"Player Sentiment");
+    addstrval(L("Players"),"Player-Name",L("PlayerName"));
+    addstrval(L("Players"),"Emoji Type",L("Emotion"));
+    addstrval(L("Players"),"Type of Sentiment",L("Senti"));
+    
+}
+AddTeamSenti(L("con"),L("TeamName"),L("Emotion")){
+    L("Team Support")=makeconcept(L("con"),"Team Support");
+    addstrval(L("Team Support"),"Team-Name",L("TeamName"));
+    addstrval(L("Team Support"),"Emoji Type",L("Emotion"));
+    if(L("Emotion")=="👎") {
+        addstrval(L("Team Support"),"Type of Sentiment","Sarcasm");
+    }
+    if(L("Emotion")=="👍"||L("Emotion")=="🤞") {
+        addstrval(L("Team Support"),"Type of Sentiment","Happy");
+    }
+}
+AddTeamSupp(L("con"),L("TeamName"),L("Senti")){
+    L("Team Support")=makeconcept(L("con"),"Team Support");
+    addstrval(L("Team Support"),"Team-Name",L("TeamName"));
+    if(L("Senti")=="won"||L("Senti")=="win")
+        addstrval(L("Team Support"),"Type of Sentiment","Happy");
+    else
+        addstrval(L("Team Support"),"Type of Sentiment","Sad");
+
+}
+AddSentiment(L("con"),L("Senti")){
+    # L("Sentiments")=makeconcept(L("con"),"Sentiments");
+    addstrval(L("con"),"Type of Sentiment",L("Senti"));
+}
+AddEmoji(L("con"),L("Emotion")){
+    L("Emojis")=makeconcept(L("con"),"Emojis");
+    addstrval(L("Emojis"),"Emoji Type",L("Emotion"));
+}
+@@DECL

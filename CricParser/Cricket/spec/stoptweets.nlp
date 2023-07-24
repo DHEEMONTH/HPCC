@@ -1,0 +1,18 @@
+###############################################
+# FILE: playerSentiment
+# SUBJ: comment
+# AUTH: Dheemonth
+# CREATED: 2023-6-28 13:52:1
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+
+@RULES
+_stoptweets <-
+	_xWILD [matches=(_generaltags _acctag _player)]	### (1)
+	#_xWILD[except fails=(_xALPHA)]
+	#_xWILD[plus matches=(_xALPHA)]
+	#_emoji							### (4)
+	@@

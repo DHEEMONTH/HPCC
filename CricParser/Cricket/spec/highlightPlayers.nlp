@@ -1,0 +1,18 @@
+###############################################
+# FILE: highlightPlayers
+# SUBJ: Simply for highlighting the players from the dictionary
+# AUTH: Dheemonth
+# CREATED: 2023-6-28 13:33:54
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+# @POST
+# L("PlayerName")=N("name",1);
+# AddPlayer(X("con"),L("PlayerName"));
+
+@RULES
+_xNIL <- 
+	_player	### (1)
+	@@
